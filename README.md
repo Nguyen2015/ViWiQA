@@ -1,4 +1,5 @@
-# ViWiQA: Efficient end-to-end Vietnamese Wikipedia-based Open-domain Question-Answering systems for single-hop and multi-hop questions
+# ViWiQA: Efficient end-to-end Vietnamese Wikipedia-based Open-domain Question-Answering systems for single-hop and multi-hop questions, Information Processing & Management 2024
+https://www.sciencedirect.com/science/article/pii/S0306457323002510
 
 This repository contains the code for the paper "ViWiQA: Efficient end-to-end Vietnamese Wikipedia-based Open-domain Question-Answering systems for single-hop and multi-hop questions"
 
